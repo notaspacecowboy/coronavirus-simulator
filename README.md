@@ -8,4 +8,4 @@ git clone https://github.com/ZackYang-ops/CoronaVirus-Simulator.git, open a unit
 <br>  
     
 ## GIFs
-![image](https://github.com/ZackYang-ops/CoronaVirus-Simulator/blob/master/Assets/artRes/images/tzoh7-7cqlf.gif?raw=true)
+![image](https://github.com/ZackYang-ops/CoronaVirus_Simulator/blob/master/Assets/artRes/images/CoronaVirus%20Simulator%202021-01-09%2011-35-24.gif)
